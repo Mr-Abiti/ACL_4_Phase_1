@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ACL 4 Phase 1</string>
+    <string name="about_acl">ABOUT ACL</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="welcome_to_acl_4_0">Welcome to ACL 4.0</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="todo">TODO</string>
+    <string name="track">Track:</string>
+    <string name="track_value">Android</string>
+    <string name="country">Country:</string>
+    <string name="country_name">Ethiopia</string>
+    <string name="email">Email:</string>
+    <string name="email_value">abitib.m@gmail.com</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="phone_value">251986088963</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="my_name">Muluken Bogale</string>
+    <string name="username">\@abiti</string>
+</resources>
